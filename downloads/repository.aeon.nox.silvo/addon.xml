@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.aeon.nox.silvo" name="Aeon Nox: SiLVO Repository" version="1.0" provider-name="SiLVO">
+	<extension point="xbmc.addon.repository" name="Aeon Nox: SiLVO Repo">
+		<info>https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/addons.xml</info>
+		<checksum>https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/mikesilvo164/repo.aeon.nox.silvo/raw/master/downloads/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>My version of Aeon Nox 5</summary>
+		<description>Main Repository for Aeon Nox: SiLVO</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
