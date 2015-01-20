@@ -16,7 +16,7 @@
 
 <addon
   id="skin.aeon.nox.silvo"
-  version="5.5.7-1.3"
+  version="5.5.7-1.4"
   name="Aeon Nox 5: SiLVO"
   provider-name="BigNoid">
 	<requires>
