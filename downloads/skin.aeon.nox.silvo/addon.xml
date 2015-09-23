@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="skin.aeon.nox.silvo"
-  version="5.7.3-2.0.6"
+  version="5.7.4-2.0.7"
   name="Aeon Nox 5: SiLVO"
   provider-name="Created by BigNoid | Modded by SiLVO">
 	<requires>
@@ -9,6 +9,7 @@
 		<import addon="script.grab.fanart" version="0.12.8"/>
 		<import addon="script.skinshortcuts" version="0.4.5"/>
 		<import addon="service.library.data.provider" version="0.0.7"/>
+		<import addon="script.toolbox" version="1.1.0"/>
 	</requires>
 	<extension
 	  point="xbmc.gui.skin"
@@ -76,5 +77,6 @@
 		<description lang="th">การออกแบบใหม่หมดจด เพื่อสร้างรูปลักษณ์ทันสมัย, ​​ขณะที่ยังคงความรู้สึกคลาสสิคของ Aeon.</description>
 		<description lang="vi">Thiết kế lại hoàn toàn để tạo nên một phong cách hiện đại, trong khi đó vẫn duy trì một cảm giác Aeon cổ điển.</description>
 		<platform>all</platform>
+		<forum>http://forum.kodi.tv/showthread.php?tid=210069</forum>
 	</extension>
 </addon>
