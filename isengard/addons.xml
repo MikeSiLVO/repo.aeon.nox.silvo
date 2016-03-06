@@ -25,6 +25,24 @@
 	</extension>
 </addon>
 
+<addon id="script.color.picker" name="XBMC Color Picker [Beta]"
+       version="1.0.7" provider-name="Frost and Mikebzh44 (passion-xbmc.org)">
+  <requires>
+    <import addon="xbmc.python" version="2.19.0"/>
+	<import addon="script.module.pil" version="1.1.7"/>
+  </requires>
+  <extension point="xbmc.python.script"
+             library="default.py">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">XBMC Color Picker</summary>
+    <description lang="en">XBMC Color Picker</description>
+    <nofanart>true</nofanart>
+    <license>GPL</license>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="script.libraryeditor" name="Library Editor Script" version="0.9.0" provider-name="phil65">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>

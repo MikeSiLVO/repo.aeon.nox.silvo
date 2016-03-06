@@ -1,0 +1,22 @@
+1.0.5
+ - fixed : resize addon for 1080i skins
+
+1.0.4
+ - removed : PIL from dependencies for skins work on openelec (glassnox, aeon nox)
+             if PIL is not installed, color picker exit running.
+
+1.0.3
+ - added : Option SetStringInRealTime=true in all view, but require a confirmation OK in main window.
+ - added : README.txt
+ - and cleanup...
+
+1.0.2
+ - changed : start with default color is called
+
+1.0.1
+ - fixed/moved for eden-pre
+
+1.0.0
+ - dev-pre Initial version
+   NB: For good work this patch is required, http://passion-xbmc.googlecode.com/svn-history/r984/trunk/addons/frodo-pre/script.mouse.tracker.service/xbmcguimodule.patch
+   but it's possible to test on Eden without patch
