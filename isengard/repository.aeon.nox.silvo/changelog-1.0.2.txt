@@ -1,8 +1,0 @@
-1.0.2
-- Update icon (Thanks schimi2k)
-
-1.0.1
-- Add Jarvis skin version
-
-1.0.0
-- Initial Release
