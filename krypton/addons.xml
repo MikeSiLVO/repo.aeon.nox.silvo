@@ -83,7 +83,7 @@
   </extension>
 </addon>
 
-<addon id="script.skin.info.service" name="Skin Info Service" version="1.0.0" provider-name="phil65">
+<addon id="script.skin.info.service" name="Skin Info Service" version="1.0.1" provider-name="phil65">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.simplejson" version="2.0.10"/>
@@ -101,6 +101,7 @@
 		<forum>-</forum>
 		<source>-</source>
 		<email>-</email>
+		<news>[B]***Recent Changes***[/B][CR]Krypton compatibility (change deprecated window names)</news>
 	</extension>
 </addon>
 </addons>
