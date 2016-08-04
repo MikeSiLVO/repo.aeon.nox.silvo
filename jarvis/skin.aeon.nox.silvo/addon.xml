@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="skin.aeon.nox.silvo"
-  version="5.8.6-3.0.4"
+  version="5.8.7-3.0.5"
   name="Aeon Nox 5: SiLVO"
   provider-name="SiLVO">
 	<requires>
@@ -28,7 +28,7 @@
 		<summary lang="es_ES">Creada por BigNoid, Modificada por SiLVO, y Widgets por Mr. V</summary>
 		<summary lang="fi_FI">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
 		<summary lang="fr_CA">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
-		<summary lang="fr_FR">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
+		<summary lang="fr_FR">Crée par BigNoid, Moddé par SiLVO, avec les Widgets de Mr. V</summary>
 		<summary lang="gl_ES">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
 		<summary lang="he_IL">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
 		<summary lang="hu_HU">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
@@ -41,7 +41,7 @@
 		<summary lang="nl_NL">Ontwikkeld door BigNoid, aangepast door SiLVO, en Widgets door Mr. V</summary>
 		<summary lang="pl_PL">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
 		<summary lang="pt_BR">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
-		<summary lang="pt_PT">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
+		<summary lang="pt_PT">Criado por BigNoid, Modded por SiLVO, e Widgets por Mr. V</summary>
 		<summary lang="ro_RO">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
 		<summary lang="ru_RU">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
 		<summary lang="sk_SK">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
