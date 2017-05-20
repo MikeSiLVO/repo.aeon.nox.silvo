@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
 <addon id="repository.aeon.nox.silvo" name="Aeon Nox: SiLVO Repository" version="1.0.4" provider-name="SiLVO">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0"/>
@@ -27,3 +28,4 @@
 		<news>[B]***Recent Changes***[CR]Remove md5 hash support (never used it)</news>
 	</extension>
 </addon>
+</addons>
