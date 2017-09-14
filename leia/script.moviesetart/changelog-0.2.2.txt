@@ -1,0 +1,38 @@
+0.2.2
+- Changed Gotham and later versions to use JSON API over direct database access
+0.2.1
+- Removed Python version dependency so addon works in latest Gotham
+0.2.0
+- Fixed support for MySQL with default database name
+0.1.9
+- Added support for Gotham
+- Added support for separate thumb/poster artwork
+- Added support for banner.jpg, logo and clearart artwork
+- Added setting to force database updates, to help with invalid texture caching
+- Added French translation
+- Fixed mangled network artwork filenames on Windows
+0.1.8
+- Added support for non-default database names (mysql and sqlite3)
+- Added support for configuring multiple artwork filenames (comma separated)
+- Added option to use the set name as a prefix for artwork files in common folder mode
+- Added Dutch language file
+0.1.7
+- Fix for unicode characters in single artwork folder filenames
+0.1.6
+- Added support for movie sets where no artwork is currently assigned
+- Added support for movies in a set stored under a single folder name but across multiple paths (request)
+0.1.5
+- Fix for using a remote artwork folder over SMB
+- Only update database if value changed, reports better stats
+0.1.4
+- Added support for all movies in a set within the same folder
+0.1.3
+- Added support for MySQL
+0.1.2
+- Added setting for sub-folder search of artwork folder
+- Add lenient filename comparisons when looking for files in artwork folder
+- Changed database code to update only existing artwork types
+0.1.1
+- Added settings for filenames used for artwork (eg folder.jpg vs poster.jpg)
+0.1.0
+- Initial version
